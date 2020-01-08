@@ -1,3 +1,9 @@
+#我的修改在Gitee上，欢迎大家一起参与
+
+   1、添加了I2C驱动和GT911驱动。I add I2C and GT911 driver
+
+   2、将LittleVgl升级到6.1.1.   Updte LittleVgl to 6.1.1
+https://gitee.com/zhangheyang/f1c100s_rt-thread
 # LittlevGL2RTT #
 
 [![Build Status](https://travis-ci.org/liu2guang/LittlevGL2RTT.svg?branch=master)](https://travis-ci.org/liu2guang/LittlevGL2RTT)
